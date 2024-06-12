@@ -1,33 +1,31 @@
-## Happy Birthday!!!
+## Feliz Aniversário!!!
 
-### Wish someone special happy birthday in a special way.
+### Deseje a alguém especial um feliz aniversário de uma maneira especial.
 
-#### [See it Live](https://momjust5minutes.github.io/Feliz-Anivers-rio/)
+#### [Veja Ao Vivo](https://momjust5minutes.github.io/Feliz-Anivers-rio/)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
-On the birthday of a special friend, I felt like the generic happy birthday text just wasn't gonna cut it for me. So I put together this animated web page at the last minute to wish them Happy Birthday.
+No aniversário de um amigo especial, senti que o texto genérico de feliz aniversário simplesmente não ia ser suficiente para mim. Então, montei esta página da web animada de última hora para desejar a eles um Feliz Aniversário.
 
-I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
-You can create your very own happy-birthday page in a few easy steps:
+Decidi publicá-la para que você possa usá-la para fazer as pessoas especiais em sua vida sentirem um pouco mais do que realmente são: especiais.
+Você pode criar sua própria página de feliz aniversário em alguns passos fáceis:
 
-* Fork the repository
-* Open `customize.json` and replace the content with your own
-* Turn on GitHub pages for your repository (Settings > Pages)
-* Share the URL you get at the above step with your friend
+* Faça um fork do repositório
+* Abra `customize.json` e substitua o conteúdo pelo seu próprio
+* Ative as páginas do GitHub para o seu repositório (Configurações > Páginas)
+* Compartilhe a URL que você obtém no passo acima com seu amigo
 
-**You do not need to create Pull Request to this main repository to get it running.**
+**Você não precisa criar um Pull Request para este repositório principal para fazê-lo funcionar.**
 
-I've created the JSON file (`customize.json`) for easy and quick customizability. It allows you the change all of the texts and the image used on the webpage without modifying the code. However, If you want to customize it further, leave the JSON fields empty and edit the HTML file directly. This is because the content in the JSON file overwrites the HTML.
+Criei o arquivo JSON (customize.json) para facilitar e agilizar a personalização. Ele permite que você altere todos os textos e a imagem usada na página da web sem modificar o código. No entanto, se você quiser personalizá-lo ainda mais, deixe os campos do JSON vazios e edite o arquivo HTML diretamente. Isso ocorre porque o conteúdo no arquivo JSON sobrescreve o HTML.
 
-Please note that I've created this page in a hurry and it comes with no warranty.
-
-Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
+Por favor, note que criei esta página com pressa e ela não possui garantia.
 
 
-## Contributing
+## Contribuindo
 
-I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
-If you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
+Usei HTML simples, CSS e JavaScript com GSAP para animações.
+Se você tiver alguma ideia para melhorá-la ou torná-la mais interessante, sinta-se à vontade para enviar um PR ou criar um problema para uma solicitação de recurso.
 
 Happy wishing! 🎉
